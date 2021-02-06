@@ -6,7 +6,6 @@ I just want to contribute to this open-source world.
 
 >Please follow my social accounts, I only have a few followers.
 Facebook : https://www.facebook.com/wiz64.official
-Contact me on Telegram @wiz64.
 
 ## Memberships
 
@@ -23,7 +22,7 @@ Contact me on Telegram @wiz64.
  - Github Pro (since 2020)
   ## Sponsors
   
- - 7hoster.com
- - Buddydev.com
+ - [7hoster.com](https://7hoster.com)
+ - [Buddydev.com](https://buddydev.com)
 - Github.com
 
