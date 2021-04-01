@@ -17,12 +17,11 @@ Facebook : https://www.facebook.com/wiz64.official
 ## Achievements
 
  - The Telegraph Genius
- - Github Campus Expert (soon)
+ - Microsoft Student Partner
+ - Google FooBar Challanger
  - Wordpress Developer
  - Github Pro (since 2020)
   ## Sponsors
   
- - [7hoster.com](https://7hoster.com)
- - [Buddydev.com](https://buddydev.com)
-- Github.com
+ - [azure.com](https://azure.com)
 
