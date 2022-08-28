@@ -18,7 +18,7 @@
 </p>
 
 > P.S- I have retired due to certain circumstances in my personal life. I have coded for over 20 projects, I am unable to continue this anymore. I cease to exist now. <br>
-> If anyone would like to continue my open source projects, I warmly appreciate that. Please fork.<br>
+> If anyone would like to continue my open source projects, I warmly appreciate that. Please fork. (Take care of [stacy](https://github.com/wiz64/stacy))<br>
 `Signing off - wiz64 - 28th August 2022`
 
 ## About Me
@@ -28,7 +28,7 @@ I am having special interest in Computer Science, Robotics and Artificial Intell
 
 I use Archlinux btw.
 
-I'm familiar with : `C++`, `Python`, `Javascript`, `PHP`, `HTML`
+I'm familiar with : `C++`, `Python`, `Javascript`, `Java`, `PHP`, `HTML`
 
 ## Top Projects
 (click to expand)
