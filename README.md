@@ -17,7 +17,7 @@
 </p>
 </p>
 
-> P.S- I have retired due to certain circumstances in my personl life. I have coded for over 20 projects, I am unable to continue this anymore. I cease to exist now. <br>
+> P.S- I have retired due to certain circumstances in my personal life. I have coded for over 20 projects, I am unable to continue this anymore. I cease to exist now. <br>
 > If anyone would like to continue my open source projects, I warmly appreciate that. Please fork.<br>
 `Signing off - wiz64 - 28th August 2022`
 
