@@ -17,10 +17,6 @@
 </p>
 </p>
 
-> P.S- I have retired due to certain circumstances in my personal life. I have coded for over 20 projects, I am unable to continue this anymore. I cease to exist now. <br>
-> If anyone would like to continue my open source projects, I warmly appreciate that. Please fork. (Take care of [stacy](https://github.com/wiz64/stacy))<br>
-`Signing off - wiz64 - 28th August 2022`
-
 ## About Me
 I am a student. I like tinkering with stuff and creating new things.<br>
 Developing bots, tools, web-apps, scripts, and memes. <br>
