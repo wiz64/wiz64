@@ -43,7 +43,7 @@ https://github.com/wiz64/stacy
  </summary>
 <br>A cool and simple Home/Startpage/Dashboard for you and your servers.
 <br>
-https://github.com/wiz64/stacy
+https://github.com/wiz64/priva-startpage
 </details>
 
 <details>
