@@ -38,8 +38,17 @@ https://github.com/wiz64/stacy
 </details>
 
 <details>
+<summary>
+   [2] Priva Startpage
+ </summary>
+<br>A cool and simple Home/Startpage/Dashboard for you and your servers.
+<br>
+https://github.com/wiz64/stacy
+</details>
+
+<details>
 <summary> 
-  [2] saavn-cli
+  [3] saavn-cli
 </summary>
 <br>
 Command Line tool to search, download MP3 songs from Saavn Library. Open-source and High Quality Music <br>
@@ -47,7 +56,7 @@ https://github.com/wiz64/saavn-cli
 </details>
 
 <details>
-<summary> [3] saavn-web-ui </summary>
+<summary> [4] saavn-web-ui </summary>
 <br>
 Modern, Clean & Fully Functional Music Player UI/Front-end for Saavn unofficial API <br>
 https://github.com/wiz64/saavn-web-ui
