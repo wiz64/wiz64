@@ -47,8 +47,17 @@ https://github.com/wiz64/priva-startpage
 </details>
 
 <details>
+<summary>
+   [3] Superfun API
+ </summary>
+<br>A vast, free & open collection of Jokes, Facts, Quiz, Trivia and other fun stuff from all over the internet and a free API to serve it all.
+<br>
+https://github.com/wiz64/superfun
+</details>
+
+<details>
 <summary> 
-  [3] saavn-cli
+  [4] saavn-cli
 </summary>
 <br>
 Command Line tool to search, download MP3 songs from Saavn Library. Open-source and High Quality Music <br>
@@ -56,7 +65,7 @@ https://github.com/wiz64/saavn-cli
 </details>
 
 <details>
-<summary> [4] saavn-web-ui </summary>
+<summary> [5] saavn-web-ui </summary>
 <br>
 Modern, Clean & Fully Functional Music Player UI/Front-end for Saavn unofficial API <br>
 https://github.com/wiz64/saavn-web-ui
