@@ -11,9 +11,7 @@
   <p align="center">
       <a href="https://wiz64.com" target="_blank">
       Website (wiz64.com)</a> <br>
-      <a href="https://youtube.com/wiz64">
-      <img src="https://img.shields.io/badge/YouTube-informational?style=for-the-badge&logo=YouTube&logoColor=white&color=000000&labelColor=EA4335"> 
-      </a>
+      
 </p>
 </p>
 
