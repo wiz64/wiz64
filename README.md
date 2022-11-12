@@ -28,7 +28,7 @@ I'm familiar with : `C++`, `Python`, `Javascript`, `Java`, `PHP`, `HTML`
 (click to expand)
 <details>
 <summary>
-   [1] JimniLimux
+   [1] JimniLinux
  </summary>
 <br>
 A linux distribution build exclusively for Students, based on Archlinux.<br>
