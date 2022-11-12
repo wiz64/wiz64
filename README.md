@@ -25,6 +25,7 @@ I use Archlinux btw.
 
 I'm familiar with : `C++`, `Python`, `Javascript`, `Java`, `PHP`, `HTML`
 
+Currently Learning : `More C & Linux`
 ## Top Projects
 (click to expand)
 <details>
