@@ -20,6 +20,7 @@ I am a student. I like tinkering with stuff and creating new things.<br>
 Developing bots, tools, web-apps, scripts, and memes. <br>
 I am having special interest in Computer Science, Robotics and Artificial Intelligence<br>
 
+🍎 I’m currently working on [JimniLinux](https://github.com/jimnilinux)<br>
 I use Archlinux btw.
 
 I'm familiar with : `C++`, `Python`, `Javascript`, `Java`, `PHP`, `HTML`
