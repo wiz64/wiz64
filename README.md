@@ -5,7 +5,7 @@
   <h3 align="center">ABOUT wiz64</h3>
   
   <p align="center">
-    Student, Self-taught Developer & Creator
+    Student, Self-taught Hobby Developer
     <br />
       
   <p align="center">
