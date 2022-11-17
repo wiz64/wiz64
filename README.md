@@ -23,9 +23,11 @@ I am having special interest in Computer Science, Robotics and Artificial Intell
 🍎 I’m currently working on [JimniLinux](https://github.com/jimnilinux) (An operating system designed exclusively for students)<br>
 I use Archlinux btw.
 
-I'm familiar with : `C++`, `Python`, `Javascript`, `Java`, `PHP`, `HTML`
+I'm familiar with : `C++`, `Python`, `Javascript`, `Java`, `PHP`, `HTML`,`Bash`
 
 Currently Learning : `More C & Linux`
+
+Other Technologies : `Git`,`Docker`,`CI`,`Nix`,`Cloud Services`
 ## Top Projects
 (click to expand)
 <details>
