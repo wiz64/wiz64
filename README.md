@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello%2C+I+am+wiz64)
-
+![](https://hit.yhype.me/github/profile?user_id=67432394)
 <p align="center">
   <h3 align="center">ABOUT wiz64</h3>
   
