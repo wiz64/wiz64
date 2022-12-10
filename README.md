@@ -15,6 +15,8 @@
 </p>
 </p>
 
+![](https://komarev.com/ghpvc/?username=wiz64)
+
 ## About Me
 I am a student. I like tinkering with stuff and creating new things.<br>
 Developing bots, tools, web-apps, scripts, and memes. <br>
