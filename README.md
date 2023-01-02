@@ -23,7 +23,7 @@ Developing bots, tools, web-apps, scripts, and memes. <br>
 I am having special interest in Computer Science, Robotics and Artificial Intelligence<br>
 
 🍎 I’m currently working on [JimniLinux](https://github.com/jimnilinux) (An operating system designed exclusively for students)<br>
-I use Archlinux btw.
+I use Archlinux & CachyOS btw.
 
 I'm familiar with : `C++`, `Python`, `Javascript`, `Java`, `PHP`, `HTML`,`Bash`
 
