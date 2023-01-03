@@ -29,7 +29,7 @@ I'm familiar with : `C++`, `Python`, `Javascript`, `Java`, `PHP`, `HTML`,`Bash`
 
 Currently Learning : `More C & Linux`
 
-Other Technologies : `Git`,`Docker`,`CI`,`Nix`,`Cloud Services`
+Other Technologies : `Git`,`Docker`,`CI`,`Nix`,`Cloud Services`,`Serverless Applications`-`(vercel)`
 ## Top Projects
 (click to expand)
 <details>
