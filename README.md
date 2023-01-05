@@ -30,6 +30,8 @@ I'm familiar with : `C++`, `Python`, `Javascript`, `Java`, `PHP`, `HTML`,`Bash`
 Currently Learning : `More C & Linux`
 
 Other Technologies : `Git`,`Docker`,`CI`,`Nix`,`Cloud Services`,`Serverless Applications`-`(vercel)`
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=wiz64&show_icons=true&locale=en&theme=onedark&layout=compact" alt="ptr1337" /></p>
+
 ## Top Projects
 (click to expand)
 <details>
@@ -83,7 +85,6 @@ https://github.com/wiz64/saavn-cli
 Modern, Clean & Fully Functional Music Player UI/Front-end for Saavn unofficial API <br>
 https://github.com/wiz64/saavn-web-ui
 </details>
-
 
 ## Sponsors <3
  <details>
