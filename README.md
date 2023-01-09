@@ -30,7 +30,7 @@ I'm familiar with : `C++`, `Python`, `Javascript`, `Java`, `PHP`, `HTML`,`Bash`
 Currently Learning : `More C & Linux`
 
 Other Technologies : `Git`,`Docker`,`CI`,`Nix`,`Cloud Services`,`Serverless Applications`-`(vercel)`
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=wiz64&show_icons=true&locale=en&theme=onedark&layout=compact" alt="ptr1337" /></p>
+<p><img src="https://stats.milovangudelj.com/api/top-langs?username=wiz64&show_icons=true&locale=en&theme=onedark&layout=compact" alt="ptr1337" /></p>
 
 ## Top Projects
 (click to expand)
