@@ -33,7 +33,8 @@ Other Technologies : `Git`,`Docker`,`CI`,`Nix`,`Cloud Services`,`Serverless Appl
 <p>
    
  ### Languages Stats
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wiz64&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wiz64&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <a href="https://github.com/wiz64">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wiz64&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wiz64&layout=compact&langs_count=7&theme=midnight-purple"/></a>
 
 
   <!--img src="https://stats.milovangudelj.com/api/top-langs?username=wiz64&show_icons=true&locale=en&theme=onedark&layout=compact" alt="ptr1337" /--></p>
