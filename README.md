@@ -22,7 +22,7 @@ I am a student. I like tinkering with stuff and creating new things.<br>
 Developing bots, tools, web-apps, scripts, and memes, Editing stuff. <br>
 I am having special interest in Computer Science, Robotics and Artificial Intelligence<br>
 
-### 🍎 I’m currently working on [JimniLinux](https://github.com/jimnilinux) (An operating system designed exclusively for students)<br>
+### 🍎 I’m currently working on [JimniOS](https://github.com/jimnios) (An operating system designed exclusively for students)<br>
 I use Archlinux & CachyOS btw.
 
 I'm familiar with : `C++`, `Python`, `Javascript`, `Java`, `PHP`, `HTML`,`Bash`
