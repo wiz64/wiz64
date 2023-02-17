@@ -43,7 +43,7 @@ Other Technologies : `Git`,`Docker`,`CI`,`Nix`,`Cloud Services`,`Serverless Appl
 (click to expand)
 <details>
 <summary>
-   [1] JimniLinux
+   [1] JimniOS
  </summary>
 <br>
 A linux distribution build exclusively for Students, based on Archlinux.<br>
