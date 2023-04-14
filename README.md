@@ -52,10 +52,11 @@ https://github.com/jimnios
 
 <details>
 <summary>
-   [2] stacy
+   [2] stacy + AI
  </summary>
 <br>
 Stacy is a little girl who can manage your everyday tasks like posting to social media, blog, channels. She can post memes on your behalf, serve you memes, music and jokes, drive away your emptyness.<br>
+  <i> Stacy is now being AI powered ! Coming Soon. </i>
 https://github.com/wiz64/stacy
 </details>
 
@@ -77,31 +78,25 @@ https://github.com/wiz64/priva-startpage
 https://github.com/wiz64/superfun
 </details>
 
+
+<details>
+<summary> [5] Saavn Music Player & Downloader</summary>
+<br>
+Modern, Clean & Fully Functional Music Player UI/Front-end for Saavn unofficial API <br>
+https://github.com/wiz64/saavn-web-ui
+</details>
+
 <details>
 <summary> 
-  [5] saavn-cli
+  [6] saavn-cli
 </summary>
 <br>
 Command Line tool to search, download MP3 songs from Saavn Library. Open-source and High Quality Music <br>
 https://github.com/wiz64/saavn-cli
 </details>
 
-<details>
-<summary> [6] saavn-web-ui </summary>
-<br>
-Modern, Clean & Fully Functional Music Player UI/Front-end for Saavn unofficial API <br>
-https://github.com/wiz64/saavn-web-ui
-</details>
+## Become a Sponsor ! 
 
-## Sponsors <3
- <details>
-<summary> Sponsors List (click to show) </summary>
-<br>
-
-  `DevinEdgar`, `Mullayam`
-
-Thanks:
-
-   `diaryofsid`
-</details>
+If you like any of my projects or works, and find them useful, you can help ensure its continued development by donating or sponsoring. Your support is appreciated, but not expected. Thank you for considering<br>
+https://wiz64.com/#donate
 
