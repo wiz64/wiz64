@@ -97,6 +97,6 @@ https://github.com/wiz64/saavn-cli
 
 ## Become a Sponsor ! 
 
-If you like any of my projects or works, and find them useful, you can help ensure its continued development by donating or sponsoring. Your support is appreciated, but not expected. Thank you for considering<br>
+If you like any of my projects or works, and find them useful, you can help ensure its continued development by donating or sponsoring. Your support is appreciated, but not expected. Thank you for considering !<br>
 https://wiz64.com/#donate
 
