@@ -25,11 +25,11 @@ I am having special interest in Computer Science, Robotics and Artificial Intell
 ### 🍎 I’m currently working on [JimniOS](https://github.com/jimnios) (An operating system designed exclusively for students)<br>
 I use Archlinux & CachyOS btw.
 
-I'm familiar with : `C++`, `Python`, `Javascript`, `Java`, `PHP`, `HTML`,`Bash`
+I'm familiar with : `C++`, `Python`, `Javascript`, `Java`, `PHP`, `HTML`, `Bash`
 
 Currently Learning : `More C & Linux`
 
-Other Technologies : `Git`,`Docker`,`CI`,`Nix`,`Cloud Services`,`Serverless Applications`-`(vercel)`
+Other Technologies : `Git`,`Docker`,`CI`,`Nix`,`Cloud Services`,`Serverless Applications`,`Heroku, Vercel`,`Browser Automation`,`Android`
 <p>
    
  ### Languages Stats
