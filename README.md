@@ -43,7 +43,7 @@ Other Technologies : `Git`,`Docker`,`CI`,`Nix`,`Cloud Services`,`Serverless Appl
 (click to expand)
 <details>
 <summary>
-   [1] JimniOS
+   JimniOS
  </summary>
 <br>
 A linux distribution build exclusively for Students, based on Archlinux.<br>
@@ -52,7 +52,7 @@ https://github.com/jimnios
 
 <details>
 <summary>
-   [2] stacy + AI
+   stacy + AI
  </summary>
 <br>
 Stacy is a little girl who can manage your everyday tasks like posting to social media, blog, channels. She can post memes on your behalf, serve you memes, music and jokes, drive away your emptyness.<br>
@@ -62,7 +62,7 @@ https://github.com/wiz64/stacy
 
 <details>
 <summary>
-   [3] Priva Startpage
+   Priva Startpage
  </summary>
 <br>A cool and simple Home/Startpage/Dashboard for you and your servers.
 <br>
@@ -71,7 +71,7 @@ https://github.com/wiz64/priva-startpage
 
 <details>
 <summary>
-   [4] Superfun API
+   Superfun API
  </summary>
 <br>A vast, free & open collection of Jokes, Facts, Quiz, Trivia and other fun stuff from all over the internet and a free API to serve it all.
 <br>
@@ -80,15 +80,22 @@ https://github.com/wiz64/superfun
 
 
 <details>
-<summary> [5] Saavn Music Player & Downloader</summary>
+<summary> Saavn Music Player & Downloader</summary>
 <br>
 Modern, Clean & Fully Functional Music Player UI/Front-end for Saavn unofficial API <br>
 https://github.com/wiz64/saavn-web-ui
 </details>
 
 <details>
+<summary> advanced-proxy-checker </summary>
+<br>
+NPM Package to test proxies and get information like geolocation data, fraudscore, ASN/ISP info and more <br>
+https://github.com/wiz64/saavn-web-ui
+</details>
+
+<details>
 <summary> 
-  [6] saavn-cli
+  saavn-cli
 </summary>
 <br>
 Command Line tool to search, download MP3 songs from Saavn Library. Open-source and High Quality Music <br>
