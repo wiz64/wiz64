@@ -90,7 +90,7 @@ https://github.com/wiz64/saavn-web-ui
 <summary> advanced-proxy-checker </summary>
 <br>
 NPM Package to test proxies and get information like geolocation data, fraudscore, ASN/ISP info and more <br>
-https://github.com/wiz64/saavn-web-ui
+https://github.com/wiz64/advanced-proxy-checker
 </details>
 
 <details>
