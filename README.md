@@ -20,7 +20,7 @@
 ## About Me
 I am a student. I like tinkering with stuff and creating new things.<br>
 Developing bots, tools, web-apps, scripts, and memes, Editing stuff. <br>
-I have special interest in Computer Science, Robotics and Artificial Intelligence<br>
+I have special interests in Computer Science, Robotics and Artificial Intelligence<br>
 
 ### 🍎 I’m currently working on [Discodus](https:/discodus.com) (Discord Server Search Engine)<br>
 I use Archlinux & CachyOS btw.
