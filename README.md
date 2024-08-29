@@ -22,7 +22,7 @@ I am a student. I like tinkering with stuff and creating new things.<br>
 Developing bots, tools, web-apps, scripts, and memes, Editing stuff. <br>
 I am having special interest in Computer Science, Robotics and Artificial Intelligence<br>
 
-### 🍎 I’m currently working on [JimniOS](https://github.com/jimnios) (An operating system designed exclusively for students)<br>
+### 🍎 I’m currently working on [Discodus](https:/discodus.com) (Discord Server Search Engine)<br>
 I use Archlinux & CachyOS btw.
 
 I'm familiar with : `C++`, `C# / .NET`, `Python`, `Javascript`, `Java`, `PHP`, `HTML`, `Bash`, `Linux`
