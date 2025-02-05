@@ -10,7 +10,7 @@
       
   <p align="center">
       <a href="https://wiz64.com" target="_blank">
-      Website (wiz64.com)</a> | <a href="https://t.me/welcomeusernotfound">Contact Me on Telegram</a> <br>
+      Website (wiz64.com)</a> | <a href="https://t.me/JhonnyBravoking">Contact Me on Telegram</a> <br>
       
 </p>
 </p>
