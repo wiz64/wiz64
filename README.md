@@ -25,9 +25,9 @@ I have special interests in Computer Science, Robotics and Artificial Intelligen
 ### 🍎 I’m currently working on [Discodus](https:/discodus.com) (Discord Server Search Engine)<br>
 I use Archlinux & CachyOS btw.
 
-I'm familiar with : `C++`, `C# / .NET`, `Python`, `Javascript`, `Java`, `PHP`, `HTML`, `Bash`, `Linux`
+I'm familiar with : `C++`, `C# / .NET`, `Python`, `Javascript`, `Java`, `PHP`, `HTML`, `Bash`, `Linux`,`AI`
 
-Currently Learning : `AI and Automation`
+Currently Learning : `Enterpreneurship`
 
 Other Technologies : `Git`,`Docker`,`CI`,`Nix`,`Cloud Services`,`Serverless Applications`,`Heroku, Vercel`,`Browser Automation`,`Android`
 <p>
