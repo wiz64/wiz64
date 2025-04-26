@@ -27,7 +27,7 @@ I use Archlinux & CachyOS btw.
 
 I'm familiar with : `C++`, `C# / .NET`, `Python`, `Javascript`, `Java`, `PHP`, `HTML`, `Bash`, `Linux`,`AI`
 
-Currently Learning : `Enterpreneurship`
+Currently Learning : `Entrepreneurship`
 
 Other Technologies : `Git`,`Docker`,`CI`,`Nix`,`Cloud Services`,`Serverless Applications`,`Heroku, Vercel`,`Browser Automation`,`Android`
 <p>
