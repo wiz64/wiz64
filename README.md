@@ -1,6 +1,5 @@
 ### Hi there 👋
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Hello%2C+I+am+wiz64)
-![](https://hit.yhype.me/github/profile?user_id=67432394)
+
 <p align="center">
   <h3 align="center">ABOUT wiz64</h3>
   
@@ -18,12 +17,11 @@
 ![](https://komarev.com/ghpvc/?username=wiz64)
 
 ## About Me
-I am a student. I like tinkering with stuff and creating new things.<br>
-Developing bots, tools, web-apps, scripts, and memes, Editing stuff. <br>
-I have special interests in Computer Science, Robotics and Artificial Intelligence<br>
+I am a full time CTO, Software Developer & Reverse Engineer... I build startups. <br>
 
-### 🍎 I’m currently working on [Discodus](https:/discodus.com) (Discord Server Search Engine)<br>
-I use Archlinux & CachyOS btw.
+### 🍎 I’m currently working on [Discodus](https:/discodus.com) (Discord Server Search Engine) and [BetterBlox](https:/betterroblox.com) (Better Roblox Extension)<br>
+
+Former open source developer
 
 I'm familiar with : `C++`, `C# / .NET`, `Python`, `Javascript`, `Java`, `PHP`, `HTML`, `Bash`, `Linux`,`AI`
 
@@ -104,6 +102,4 @@ https://github.com/wiz64/saavn-cli
 
 ## Become a Sponsor ! 
 
-If you like any of my projects or works, and find them useful, you can help ensure its continued development by donating or sponsoring. Your support is appreciated, but not expected. Thank you for considering !<br>
-https://wiz64.com/#donate
-
+If you'd like to sponsor any of my projects consider contacting me via telegram.
