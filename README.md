@@ -4,7 +4,7 @@
   <h3 align="center">ABOUT wiz64</h3>
   
   <p align="center">
-    Student, Self-taught Hobby Developer
+    CTO, Software Developer, Reverse Engineer
     <br />
       
   <p align="center">
