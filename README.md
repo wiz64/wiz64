@@ -23,7 +23,7 @@ I am a full time CTO, Software Developer & Reverse Engineer... I build startups.
 
 Former open source developer
 
-I'm familiar with : `C++`, `C# / .NET`, `Python`, `Javascript`, `Java`, `PHP`, `HTML`, `Bash`, `Linux`,`AI`
+I'm familiar with : `C++`, `C# / .NET`, `Python`, `Javascript`, `Java`, `PHP`, `ReactJS`, `HTML`, `Bash`, `Linux`,`AI`
 
 Currently Learning : `Entrepreneurship`
 
